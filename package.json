@@ -1,7 +1,7 @@
 {
 	"name": "lambda-promise",
 	"description": "Meets AWS Lambda's expectations given a method that returns a promise.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"main": "lib/main.js",
 	"dependencies": {
 		"when": "3.7.3"
